@@ -10,21 +10,25 @@
 
 <h3>Tech Stack</h3>
 
-&nbsp;&nbsp;&nbsp; 💻 &nbsp;
+&nbsp;&nbsp;&nbsp; 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=MATLAB)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)</br>
-&nbsp;&nbsp;&nbsp; 🌐 &nbsp;
+&nbsp;&nbsp;&nbsp; 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)</br>
-&nbsp;&nbsp;&nbsp; 🛢 &nbsp;&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)</br>
+&nbsp;&nbsp;&nbsp; 
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL&logoColor=4479A1)</br>
 
 </br>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Bojan-Lukic">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bojan-Lukic&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bojan-Lukic&layout=compact&langs_count=8&theme=algolia"/>
+
 </a>
 
 <br/>
