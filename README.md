@@ -25,8 +25,9 @@
 
 </br>
 
+&nbsp;&nbsp;&nbsp; 
 <a href="https://github.com/Bojan-Lukic">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bojan-Lukic&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bojan-Lukic&theme=buefy&show_icons=true&hide_rank=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bojan-Lukic&layout=compact&langs_count=8&theme=buefy"/>
 </a>
 
@@ -34,6 +35,7 @@
 
 <h3>Connect with Me</h3>
 
+&nbsp;&nbsp;&nbsp; 
 <a href="https://www.bojanlukic.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.bojanlukic.com-blue?style=flat-square&logo=google-chrome&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/bojan-lukic-53b306275/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bojan%20Lukic-blue?style=flat-square"></a>
 <a href="https://www.researchgate.net/profile/Bojan_Lukic2"><img alt="LinkedIn" src="https://img.shields.io/badge/ResearchGate-Bojan%20Lukic-blue?style=flat-square&logo=ResearchGate&logoColor=white"></a>
