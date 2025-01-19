@@ -27,7 +27,7 @@
 
 <a href="https://github.com/Bojan-Lukic">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bojan-Lukic&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bojan-Lukic&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bojan-Lukic&layout=compact&langs_count=8&theme=buefy"/>
 </a>
 
 <br/>
