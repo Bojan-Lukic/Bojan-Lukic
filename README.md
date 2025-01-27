@@ -2,11 +2,11 @@
 
 <h3>About Me </h3>
 
-&nbsp;&nbsp;&nbsp; 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.</br>
-&nbsp;&nbsp;&nbsp; 🎓 &nbsp; Working at the German Aerospace Center (DLR) in Braunschweig <a href="https://github.com/DLR-FT">@DLR-FT</a>.</br>
-&nbsp;&nbsp;&nbsp; 👀 &nbsp; Interested in athletic and endurance sport as well as nutrition, scientific papers, and making music.</br>
-&nbsp;&nbsp;&nbsp; 🌱 &nbsp; Currently learning languages that are native to the C language family.</br>
-&nbsp;&nbsp;&nbsp; 💞️ &nbsp; I’m looking to collaborate on different side projects. Hit me up!</br>
+&nbsp;&nbsp;&nbsp; > &nbsp; Exploring new technologies and developing software solutions and quick hacks.</br>
+&nbsp;&nbsp;&nbsp; > &nbsp; Working at the German Aerospace Center (DLR) in Braunschweig <a href="https://github.com/DLR-FT">@DLR-FT</a>.</br>
+&nbsp;&nbsp;&nbsp; > &nbsp; Interested in athletic and endurance sport as well as nutrition, scientific papers, and making music.</br>
+&nbsp;&nbsp;&nbsp; > &nbsp; Currently learning languages that are native to the C language family.</br>
+&nbsp;&nbsp;&nbsp; > &nbsp; I’m looking to collaborate on different side projects. Hit me up!</br>
 
 <h3>Tech Stack</h3>
 
